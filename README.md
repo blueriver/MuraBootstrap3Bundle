@@ -1,12 +1,12 @@
 # MuraBootstrap3 Bundle
 A [Mura CMS](http://www.getmura.com) Site Bundle based on [Bootstrap](http://getbootstrap.com/), a responsive, mobile first front-end framework for faster and easier web development. This also includes [Font Awesome](http://fontawesome.io/), the iconic font designed for Bootstrap.
 
-## What Is a Mura CMS Site Bundle?
+## What Is A Mura CMS Site Bundle?
 A site bundle for Mura CMS is a .ZIP file. There's no need to unzip it! The file contains data that has been exported from the database, as well as all of the assets used for the site such as images, CSS, JavaScript, and of course any layout templates used by the originating site.
 
 A site bundle is a convenient way to share a custom theme and populate the site with some sample content to help other developers get up and running quickly and easily. Smaller sites often use bundles as backup files. This also makes it easy to work on a site locally on your laptop, and then re-deploy the site to the production server when finished.
 
-## How To Install a Mura CMS Theme Bundle
+## How To Install A Mura CMS Theme Bundle
 1. From the Github project page, click the **Download ZIP** button located on the bottom, right column area.
 2. Unzip the contents to reveal a file named as:
 	**MuraBundle_{ThemeName}_YYYY_MM_DD_HH_MM.zip**
