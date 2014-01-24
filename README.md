@@ -9,14 +9,14 @@ A site bundle is a convenient way to share a custom theme and populate the site 
 ## How To Install A Mura CMS Theme Bundle
 1. From the Github project page, click the **Download ZIP** button located on the bottom, right column area.
 2. Unzip the contents to reveal a file named as:
-	**MuraBundle_{ThemeName}_YYYY_MM_DD_HH_MM.zip**
+	**MuraBundle\_{ThemeName}\_YYYY\_MM\_DD\_HH\_MM.zip**
 3. Login to the back end Admin area of the site where you wish to deploy the bundle.
 4. Go to **Site Config > Deploy Bundle**
 5. The first option listed is **Are you restoring a site from a backup bundle?**
 	1. The default option is **No - Assign New Keys to Imported Items**. Unless you are actually restoring a site from a backup bundle, you should use this option.
 	2. IF, and only if, you are restoring a site from a backup bundle, then you should select **Yes - Maintain All Keys from Imported Items**. However, you MUST be deploying the bundle to the same site. Do NOT attempt to deploy the bundle file with this option to a new site under the same instance of Mura.
 6. Under the **Include:** option, you can select the various data you wish to import such as:
-	1. Site Architecture & Content (__this is very common__)
+	1. Site Architecture & Content (_this is very common_)
 	2. Site Members & Administrative Users
 	3. Mailing List Members
 	4. Form Response Data
