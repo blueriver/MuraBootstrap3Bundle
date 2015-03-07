@@ -30,7 +30,7 @@ A site bundle is a convenient way to share a custom theme and populate the site 
 9. Click **Update**
 
 ## License
-Copyright 2014 Blue River Interactive Group, Inc.
+Copyright 2014-2015 Blue River Interactive Group, Inc.
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this work except in compliance with the License. You may obtain a copy of the License in the LICENSE file, or at:
 
